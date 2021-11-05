@@ -1,4 +1,4 @@
-# sputteringsystem
+# sputtering system
 
 ![Untitled_8](https://user-images.githubusercontent.com/14140482/139967383-ed53283c-5dd9-41af-97f4-11b540378c70.jpg)
 
